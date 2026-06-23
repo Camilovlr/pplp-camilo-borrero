@@ -1,0 +1,7 @@
+1. Encontrar una noticia.
+2. Identificar el autor o la institución.
+3. Buscar si portales especializados en verificación de datos ya han validado o desmentido la noticia.
+4. Evaluar si el contenido cuenta con pruebas visibles, como estudios oficiales, imágenes reales o citas de expertos.
+5. Revisar la sección de comentarios o debates en la web para mirar si otros usuarios han alertado sobre posibles datos falsos.
+6. Confirmar que los datos sigan vigentes y no correspondan a un evento antiguo.
+7. Publicar o enviar la información únicamente si se superaron todos los filtros de seguridad.
